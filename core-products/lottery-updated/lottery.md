@@ -2,10 +2,10 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 1 CAKE 
+* Lottery Ticket Fee for 1 ticket: 1 BGSP 
 * Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(1 CAKE\) will give users a random 4 digit combination with each digit being between 1-10, for e.g. “1-9-3-2”
-* In the UI, users can choose to enter a multiple of 10 CAKE, which will buy them multiple tickets. 
+* Paying for one ticket \(1 BGSP\) will give users a random 4 digit combination with each digit being between 1-10, for e.g. “1-9-3-2”
+* In the UI, users can choose to enter a multiple of 10 BGSP, which will buy them multiple tickets. 
 
 \*\*\*\*
 
@@ -21,7 +21,6 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 * Match all 4 numbers in the exact order = win 60% of the pot \(or split the pot if more than 1 winner\). 
 * Match 3 numbers in the exact order = win or split 20% of the pot.
 * Match 2 numbers in the exact order = win or split 10% of the pot.
-* Burn remaining 10% of the pot.
 
 For example, if the final 4 winning numbers are “1-9-3-2”:  
 
@@ -47,7 +46,7 @@ Each full lottery session is completed every 2 hours. An example of a lottery se
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
-* Users will receive a ticket \(comprised of 4 digits\) for each 1 CAKE paid.
+* Users will receive a ticket \(comprised of 4 digits\) for each 1 BGSP paid.
 
 **Phase 2 - Lottery Draw! \(1:30 AM\)**
 
